@@ -125,9 +125,10 @@ dir = Path(__file__).parent if "__file__" in locals() else Path.cwd()
 
 # ---- LOAD ASSETS ----
 lottie_coding = load_lottieurl("https://assets8.lottiefiles.com/packages/lf20_3rwasyjy.json")
-img_python = dir / "style" / "pytonE.jpg"
+img_python = dir / "images" / "pytonE.jpg"
 #Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\pytonE.jpg")
-img_Excel = Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\ExcelP.jpg")
+img_Excel =dir / "images" / "ExcelP.jpg"
+#Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\ExcelP.jpg")
 sqlimg= Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\office.jpg")
 tt=Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\Tableau.jpg")
 
