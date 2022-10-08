@@ -122,10 +122,10 @@ local_css("style/style.css")
 
 # ---- LOAD ASSETS ----
 lottie_coding = load_lottieurl("https://assets8.lottiefiles.com/packages/lf20_3rwasyjy.json")
-img_python = Image.open("C:\\Users\\lenovo ideapad130\OneDrive\\المستندات\\practical python proj\\images\\pytonE.jpg")
-img_Excel = Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\المستندات\\practical python proj\\images\\ExcelP.jpg")
-sqlimg= Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\المستندات\\practical python proj\\images\\office.jpg")
-tt=Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\المستندات\\practical python proj\\images\\Tableau.jpg")
+img_python = Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\pytonE.jpg")
+img_Excel = Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\ExcelP.jpg")
+sqlimg= Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\office.jpg")
+tt=Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\Tableau.jpg")
 
 
 
