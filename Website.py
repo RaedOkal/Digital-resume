@@ -129,8 +129,10 @@ img_python = dir / "images" / "pytonE.jpg"
 #Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\pytonE.jpg")
 img_Excel =dir / "images" / "ExcelP.jpg"
 #Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\ExcelP.jpg")
-sqlimg= Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\office.jpg")
-tt=Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\Tableau.jpg")
+sqlimg= dir / "images" / "office.jpg"
+#Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\office.jpg")
+tt= dir / "images" / "Tableau.jpg"
+#Image.open("C:\\Users\\lenovo ideapad130\\OneDrive\\سطح المكتب\\my digital resume\\images\\Tableau.jpg")
 
 
 
