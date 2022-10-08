@@ -193,6 +193,7 @@ with st.container():
 with st.container():
     image_column, text_column = st.columns((1, 2))
     with image_column:
+        img_Excel = Image.open(img_Excel)
         st.image(img_Excel)
     with text_column:
         st.subheader("Bike sales analysis")
@@ -209,6 +210,7 @@ with st.container():
 with st.container():
     image_column, text_column = st.columns((1, 2))
     with image_column:
+        sqlimg = Image.open(sqlimg)
         st.image(sqlimg)
     with text_column:
         st.subheader("The Office With SQL")
@@ -225,6 +227,7 @@ with st.container():
 with st.container():
     image_column, text_column = st.columns((1, 2))
     with image_column:
+        tt=Image.open(tt)
         st.image(tt)
     with text_column:
         st.subheader("My Tableau project")
