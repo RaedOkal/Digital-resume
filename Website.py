@@ -175,6 +175,7 @@ with st.container():
     st.write("##")
     image_column, text_column = st.columns((1, 2))
     with image_column:
+        img_python = Image.open(img_python)
         st.image(img_python)
     with text_column:
         st.subheader("country's GDP analysis with python ")
